@@ -23,7 +23,7 @@ Technologies Used:
 
 - Prompt engineering
 
-= Conversational state handling
+- Conversational state handling
 
 Project Highlights:
 
@@ -47,6 +47,7 @@ pip install -r requirements.txt
 
 # Run the chatbot
 python main.py
+
 
 
 Why This Project Matters?
@@ -74,3 +75,4 @@ Improve response quality with advanced prompt strategies
 
 Harish Thupati
 Graduate | Aspiring Data Analyst & Generative AI Enthusiast
+
